@@ -6,7 +6,7 @@ The rmarkdown file used to create the final paper is: insert here , this file al
 That files uses functions defined in the functions folder, which are accessed using the `box` pacakge. functions/ts are general functions used in the paper and functions/ap are functions used to assess the statistical assumptions. Not all functions that are defined were used in the final paper. \
 \
 Functions imported from other packages are also imported using the `box` package. Here is complete list of packages used and required for the replication code to run: 
-- box (for importing functions without clustering namespace)
+- box (for importing individual functions from packages without clustering the namespace)
 - dplyr (for data manipulation)
 - forcats (helps create plots with ordered labels)
 - ggplot2 (for creating plots)
