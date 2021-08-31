@@ -1,5 +1,5 @@
 # Replication Data for: The Effect of Distrust on Government Stringency During the Covid-19 Pandemic
-This document outlines the structure of the replication data.
+This document outlines the structure of the replication data. To replicate the analysis open the entire repo as an R project in R studio.
 
 The files used to create the dissertation article are in the folder Replication Scripts. This contains the rmarkdown file used to produce the paper and do the analysis (analysis_and_paper.Rmd). Title.tex contains the latex necessary to produce the title page and abstract.
 
